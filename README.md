@@ -6,7 +6,7 @@ This is a project template for Angular JS applications using [Lineman](http://ww
 
 It includes the following features:
 
-1. Template Precompilation into Angulars $templateCache using `grunt-angular-templates`
+1. Template Precompilation into Angulars   $templateCache using `grunt-angular-templates`
 2. A basic login, logout service bound to sample routes inside `config/server.js`
 3. A router, and 2 views `home` and `login`
 4. A directive that shows a message on mouseover
